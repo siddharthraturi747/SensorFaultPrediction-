@@ -3,4 +3,3 @@ flask
 numpy
 scikit-learn
 matplotlib
--e .
